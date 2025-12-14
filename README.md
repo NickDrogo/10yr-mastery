@@ -1,22 +1,16 @@
 # 🧱 10-Year Mastery Journey (2025–2035)
 
-> Public record of my 10-year pursuit of mastery in Computer Science and real-world systems.
+> Public record of my 10-year pursuit of mastery in Artificial Intelligence.
 
 ### 🔥 Core Focus:
 
-- Software Engineering
 - Artificial Intelligence (AI)
-- Cloud and Devops
-- Algorithms, OS, Networking, Databases
-
----
 
 ## 📁 Repo Structure:
 
-| Folder             | Purpose                                             |
-| ------------------ | --------------------------------------------------- |
-| `/python`          | All projects from python books                      |
-| `/global-projects` | Real-life projects, tools, experiments from scratch |
+| Folder    | Purpose                        |
+| --------- | ------------------------------ |
+| `/python` | All projects from python books |
 
 ---
 
